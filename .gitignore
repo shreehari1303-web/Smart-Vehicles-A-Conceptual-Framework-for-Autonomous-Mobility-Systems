@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+venv/
+env/
+ENV/
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django / common
+db.sqlite3
+*.log
+media/
+staticfiles/
+.local/
+.env
+.env.*
+.vscode/
+.idea/
+node_modules/
